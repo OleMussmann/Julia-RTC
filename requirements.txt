@@ -1,6 +1,6 @@
 ipykernel>=6
-jupyterlab>=3.6.1
+jupyterlab==4.0.0a34
 jupyterlab-git
 jupyterlab-link-share
 nbgitpuller
-xeus-python
+jupyter-collaboration
