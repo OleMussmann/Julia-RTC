@@ -2,4 +2,4 @@ ipykernel>=6
 jupyterlab==4.0.0a34
 jupyterlab-git
 jupyterlab-link-share
-jupyterlab-collaboration
+jupyter-collaboration
