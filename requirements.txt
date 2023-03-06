@@ -2,4 +2,3 @@ ipykernel>=6
 jupyterlab>=4.0.0a35
 jupyterlab-git
 jupyterlab-link-share
-xeus-python
