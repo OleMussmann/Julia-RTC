@@ -1,5 +1,5 @@
 ipykernel>=6
-jupyterlab>=3.6
+jupyterlab>=3.6.1
 jupyterlab-git
 jupyterlab-link-share
 jupyter-collaboration
