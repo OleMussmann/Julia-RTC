@@ -1,4 +1,4 @@
-ipykernel
-jupyterlab
+ipykernel>=6
+jupyterlab>=4
 jupyterlab-link-share
 jupyter-collaboration
